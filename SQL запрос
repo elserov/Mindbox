@@ -1,0 +1,1 @@
+SELECT nameCategory as categoryTable FROM nameProduct
