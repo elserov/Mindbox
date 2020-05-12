@@ -16,7 +16,7 @@ namespace Mindbox
         {
             double P = (a + b + c) / 2;
 
-            return Math.Sqrt(P*(P - a)*(P - b)*(P - c)); 
+            return Math.Sqrt(P*(P - a)*(P - b)*(P - c)); //
         }
     }
 }
